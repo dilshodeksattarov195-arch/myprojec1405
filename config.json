@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenetringify",
+        "uuid": 4522695,
+        "checksum": "6hsek"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
